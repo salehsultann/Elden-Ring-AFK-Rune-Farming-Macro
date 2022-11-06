@@ -9,7 +9,7 @@ FAQs
 
 Q1) How to use the .ahk file?
 
-For launching the code install AutoHotKey (https://www.autohotkey.com/)  then open the .ahk file once you are near the Palace Approch Ledge-Road site of grace. Press F3 and have fun.
+For launching the code install AutoHotKey (https://www.autohotkey.com/)  then open the .ahk file once you are near the Palace Approch Ledge-Road site of grace. Press F3.
 
 Q2) How do I get to farming location?
 

@@ -5,7 +5,7 @@
  
  Note: Always start the macro after teleporting to the site of grace. DO NOT move the mouse as it will mess up the camera. After the first cycle it fixes itself automatically.
 
-FAQ
+FAQs
 
 Q1) How to use the .ahk file?
 

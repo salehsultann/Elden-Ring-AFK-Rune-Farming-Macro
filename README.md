@@ -1,6 +1,8 @@
 # Elden Ring Rune Farming Macro
  An Elden Ring Macro to AFK Rune Farming (18 million runes/hour) with AutoHotKey (Only for Windows)
+ 
  Note: From settings -> Key Bindings change your mouse movement left to (J) and skill to (N)
+ 
  Note: Always start the macro after teleporting to the site of grace. DO NOT move the mouse as it will mess up the camera. After the first cycle it fixes itself automatically.
 
 FAQ
